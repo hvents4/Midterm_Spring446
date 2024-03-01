@@ -8,7 +8,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 
 # HALEY VENTURA
 
-##### 630-XXX-XXXX \| hventur2\@uic.edu \| Chicago, IL \| [linkedin.com/in/haleyventura](linkedin.com/in/haleyventura)
+##### 630-XXX-XXXX \| hventur2@uic.edu \| Chicago, IL \| [linkedin.com/in/haleyventura](linkedin.com/in/haleyventura)
 
 ## **TRANSPORTATION PLANNER**
 
