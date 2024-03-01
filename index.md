@@ -1,30 +1,20 @@
 ---
+title: "Home"
 layout: default
-title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Just the Docs is a responsive Jekyll theme with built-in search that
+  is easily customizable and hosted on GitHub Pages."
 ---
 
 # HALEY VENTURA
 
 ## **TRANSPORTATION PLANNER**
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left">* Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup</td>
-<td align="left">* Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing
-</tr>
-<tr class="even">
-<td align="left">* Data Analysis: Python, SQL, R, PowerBI, Excel</td>
-<td align="left">* Language: Conversational Spanish</td>
-</tr>
-</tbody>
-</table>
++------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| \* Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup | \* Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing |
++------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| \* Data Analysis: Python, SQL, R, PowerBI, Excel                                                     | \* Language: Conversational Spanish                                                                         |
++------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
 
 ### [**WORK EXPERIENCE**]{.underline}
 
