@@ -76,7 +76,6 @@ Champaign, IL \| August 2015 – June 2019
 
 Urbana, IL \| December 2015 - December 2016
 
-------------------------------------------------------------------------
 
 630-XXX-XXXX
 
