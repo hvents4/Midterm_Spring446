@@ -8,17 +8,20 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 
 # HALEY VENTURA
 
+##### 630-XXX-XXXX \| hventur2\@uic.edu \| Chicago, IL \| [linkedin.com/in/haleyventura](linkedin.com/in/haleyventura)
+
 ## **TRANSPORTATION PLANNER**
 
-+--------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| -    Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup | -   Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing |
-+--------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| -    Data Analysis: Python, SQL, R, PowerBI, Excel                                                     | -   Language: Conversational Spanish                                                                         |
-+--------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+--------------------------------------------------------------------------------------------------------
+-    Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup
+-   Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing
+-    Data Analysis: Python, SQL, R, PowerBI, Excel
+-   Language: Conversational Spanish
+--------------------------------------------------------------------------------------------------------
 
-### [**WORK EXPERIENCE**]{.underline}
+### **WORK EXPERIENCE**
 
-##### **Chicago Transit Authority** \|Service Planning Intern \| Chicago, IL \| May 2023 - Present
+##### **Chicago Transit Authority** \| Service Planning Intern \| Chicago, IL \| May 2023 - Present
 
 -   Update Title VI triennial program and implement automated improvements to CTA’s process on data analysis by updating SQL queries, ArcGIS feature classes and maps, and connecting results to PowerBI
 
@@ -30,7 +33,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 
 -   Create interactive web apps through ArcGIS Online visualizing population characteristics, such as spoken languages, in CTA’s service area for planners to make more informed decisions on translation needs during service changes
 
-#### **UIC Great Cities Institute** \|Research Assistant \| Chicago, IL \| May 2022 – May 2023
+#### **UIC Great Cities Institute** \| Research Assistant \| Chicago, IL \| May 2022 – May 2023
 
 Created ArcGIS maps and data analysis for various research projects across the institute
 
@@ -48,7 +51,7 @@ Analyzed burn reports weekly through PowerBI, Excel, and Workfront to pull insig
 
 Developed timelines for multidisciplinary projects; organized monthly out-of-pocket billing across 10+ brands
 
-#### **Fusion92** \|Account/Project Coordinator \| Chicago, IL \| August 2018 - March 2021
+#### **Fusion92** \| Account/Project Coordinator \| Chicago, IL \| August 2018 - March 2021
 
 Communicated as the main point of contact for 5 clients daily on all business functions from asset creation to billing
 
@@ -62,28 +65,13 @@ Supported production and project management for 80+ websites developed for Pathw
 
 **Teach for America** \|Campus Ambassador \| Champaign, IL \| August 2018 – August 2019
 
-### [**VOLUNTEER**]{.underline}
+### **VOLUNTEER**
 
-**Lincoln Park Conservatory** \|Docent
+**Lincoln Park Conservatory** \| Docent \| Chicago, IL \| August 2019 – August 2022
 
-Chicago, IL \| August 2019 – August 2022
+**Habitat for Humanity at UIUC** \| Executive Secretary of Organization with 750+ Students \| Champaign, IL \| August 2015 – June 2019
 
-**Habitat for Humanity at UIUC** \|Executive Secretary of Organization with 750+ Students
-
-Champaign, IL \| August 2015 – June 2019
-
-**AmeriCorps** \|Illinois JusticeCorps Member
-
-Urbana, IL \| December 2015 - December 2016
-
-
-630-XXX-XXXX
-
-hventur2\@uic.edu
-
-Chicago, IL
-
-[linkedin.com/in/haleyventura](linkedin.com/in/haleyventura)
+**AmeriCorps** \| Illinois JusticeCorps Member \| Urbana, IL \| December 2015 - December 2016
 
 ----
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
