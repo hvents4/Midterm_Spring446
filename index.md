@@ -1,6 +1,6 @@
 ---
-title: "Home"
-layout: default
+title: Home
+layout: home
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that
   is easily customizable and hosted on GitHub Pages."
@@ -85,3 +85,11 @@ hventur2\@uic.edu
 Chicago, IL
 
 [linkedin.com/in/haleyventura](linkedin.com/in/haleyventura)
+
+----
+[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+[GitHub Pages]: https://docs.github.com/en/pages
+[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
+[Jekyll]: https://jekyllrb.com
+[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
+[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
