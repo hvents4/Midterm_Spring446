@@ -1,35 +1,84 @@
 ---
-title: Home
+title: Resume of Haley Ventura
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# HALEY VENTURA
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## **TRANSPORTATION PLANNER**
 
-More specifically, the created site:
++------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| \* Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup | \* Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing |
++------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| \* Data Analysis: Python, SQL, R, PowerBI, Excel                                                     | \* Language: Conversational Spanish                                                                         |
++------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+### [**WORK EXPERIENCE**]{.underline}
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+##### **Chicago Transit Authority** \|Service Planning Intern \| Chicago, IL \| May 2023 - Present
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+-   Update Title VI triennial program and implement automated improvements to CTA’s process on data analysis by updating SQL queries, ArcGIS feature classes and maps, and connecting results to PowerBI
 
-To get started with creating a site, simply:
+-   Create PowerBI reports for cross-agency use and pull insights from ridership, performance, and demographics to provide key information to planning teams for decision-making on service and schedule updates
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+-   Conduct research on peer agencies to provide upper management with national best-in-class equity practices and compile findings on research and industry standards for recommendations on service standards improvements
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+-   Present project findings and technical tools to cross-department leadership and teams for feedback
 
-----
+-   Create interactive web apps through ArcGIS Online visualizing population characteristics, such as spoken languages, in CTA’s service area for planners to make more informed decisions on translation needs during service changes
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+##### **UIC Great Cities Institute** \|Research Assistant \| Chicago, IL \| May 2022 – May 2023
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Created ArcGIS maps and data analysis for various research projects across the institute
+
+Managed all design, layout, and digital accessibility requirements in InDesign and Acrobat for publication of the 2023 Chicago Budget Community Engagement Report and Illinois Immigrant Impact Task Force Report
+
+Initiated migration for entire website to new University managed platform on WordPress for improved accessibility
+
+Managed Institute’s social media planning, event coordination, listserv, and newsletters
+
+##### **Intouch Solutions** \| Project Manager \| Chicago, IL \| March 2021 – August 2022
+
+Managed cross-functional projects by organizing teams, dele and crafting strategic partnerships across 3 portfolios with over 100 active projects with budgets totaling \$15 million
+
+Analyzed burn reports weekly through PowerBI, Excel, and Workfront to pull insights and adjust spending
+
+Developed timelines for multidisciplinary projects; organized monthly out-of-pocket billing across 10+ brands
+
+#### **Fusion92** \|Account/Project Coordinator \| Chicago, IL \| August 2018 - March 2021
+
+Communicated as the main point of contact for 5 clients daily on all business functions from asset creation to billing
+
+Built a new email campaign process in Marketo, handled email delivery including HTML editing, and managed direct mail campaigns for 100+ veterinary clinics through coordination with creative agency and vendor partners
+
+Supported production and project management for 80+ websites developed for Pathway Vet Alliance
+
+### **Previous Positions Include:**
+
+**Fusion92** \|Account Management Intern \| Chicago, IL \| June 2018 – August 2018
+
+**Teach for America** \|Campus Ambassador \| Champaign, IL \| August 2018 – August 2019
+
+### [**VOLUNTEER**]{.underline}
+
+**Lincoln Park Conservatory** \|Docent
+
+Chicago, IL \| August 2019 – August 2022
+
+**Habitat for Humanity at UIUC** \|Executive Secretary of Organization with 750+ Students
+
+Champaign, IL \| August 2015 – June 2019
+
+**AmeriCorps** \|Illinois JusticeCorps Member
+
+Urbana, IL \| December 2015 - December 2016
+
+------------------------------------------------------------------------
+
+630-XXX-XXXX
+
+hventur2\@uic.edu
+
+Chicago, IL
+
+[linkedin.com/in/haleyventura](linkedin.com/in/haleyventura)
