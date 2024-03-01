@@ -7,11 +7,22 @@ layout: home
 
 ## **TRANSPORTATION PLANNER**
 
-+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
-| \* Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup | \* Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing |
-+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
-| \* Data Analysis: Python, SQL, R, PowerBI, Excel                                                     | \* Language: Conversational Spanish                                                                         |
-+------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td align="left">* Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup</td>
+<td align="left">* Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing
+</tr>
+<tr class="even">
+<td align="left">* Data Analysis: Python, SQL, R, PowerBI, Excel</td>
+<td align="left">* Language: Conversational Spanish</td>
+</tr>
+</tbody>
+</table>
 
 ### [**WORK EXPERIENCE**]{.underline}
 
@@ -27,7 +38,7 @@ layout: home
 
 -   Create interactive web apps through ArcGIS Online visualizing population characteristics, such as spoken languages, in CTA’s service area for planners to make more informed decisions on translation needs during service changes
 
-##### **UIC Great Cities Institute** \|Research Assistant \| Chicago, IL \| May 2022 – May 2023
+#### **UIC Great Cities Institute** \|Research Assistant \| Chicago, IL \| May 2022 – May 2023
 
 Created ArcGIS maps and data analysis for various research projects across the institute
 
@@ -37,7 +48,7 @@ Initiated migration for entire website to new University managed platform on Wor
 
 Managed Institute’s social media planning, event coordination, listserv, and newsletters
 
-##### **Intouch Solutions** \| Project Manager \| Chicago, IL \| March 2021 – August 2022
+#### **Intouch Solutions** \| Project Manager \| Chicago, IL \| March 2021 – August 2022
 
 Managed cross-functional projects by organizing teams, dele and crafting strategic partnerships across 3 portfolios with over 100 active projects with budgets totaling \$15 million
 
